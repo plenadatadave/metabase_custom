@@ -66,7 +66,7 @@
                                :logoHeader   true}
                               (random-quote-context)))]
     (email/send-message!
-      :subject      (str "You're invited to join " company "'s Plena Data")
+      :subject      (str "You're invited to join Plena Data")
       :recipients   [(:email invited)]
       :message-type :html
       :message      message-body)))
