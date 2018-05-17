@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Metabase
 Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
@@ -117,3 +118,6 @@ Unless otherwise noted, all Metabase source files are made available under the t
 See [LICENSE.txt](https://github.com/metabase/metabase/blob/master/LICENSE.txt) for details and exceptions.
 
 Unless otherwise noted, all files © 2017 Metabase, Inc.
+=======
+# metabase_custom
+>>>>>>> e039e8dba1308df913d1591e24982ef43d6e4d0b
